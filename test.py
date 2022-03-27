@@ -1,8 +1,7 @@
 import numpy as np
-import sys
 from scipy.cluster.hierarchy import dendrogram, linkage
 import matplotlib.pyplot as plt
-
+import sys
 
 #erstellt das Array und legt variablen fest
 n= 50
